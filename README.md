@@ -193,5 +193,3 @@ This portfolio template is free to use and modify for personal and commercial pr
 
 ---
 
-**Created with ❤️ for showcasing professional skills and achievements**
-
